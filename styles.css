@@ -122,6 +122,10 @@ header{
     border: none;
 }
 
+.search-input::placeholder{
+    text-transform: capitalize;
+}
+
 .search-btn{
     border: none;
     width: 40px;
